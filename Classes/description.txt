@@ -1,0 +1,36 @@
+I am Goat, Spy Goat!
+
+Secret agent 00G, here is your mission: You must infiltrate the Human consipracy, find the leaders, and get rid of them. To help you in your mission we will provide you as much money as you need, a special serum that will make you look like death and some explosives... But please only use them in case of emergency, you have to stay incognito. Good luck!
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Spy Goat: You can drop money, feign death and place explosives.
+
+[b]COMMANDS[/b]
+- [b][1]:[/b] Drop some money.
+- [b][R] + Ragdoll:[/b] Hold R before going ragdoll to feign death.
+- [b][3]:[/b] Place an explosive. 
+
+[b]GAMEPAD COMMANDS[/b]
+- [b][LB]:[/b] Drop some money.
+- [b][Y] + Ragdoll:[/b] Hold Y before going ragdoll to feign death.
+- [b][RB]:[/b] Place an explosive. 
+
+[b]CHARACTERISTICS[/b]
+- The "feign death" state is an alternate version of the ragdoll state. To cancel it use the ragdoll key.
+
+[b]EASTER EGGS[/b]
+- [spoiler]When you drop money, there is a random chance that a real wad of cash appear. This chance increace if you press the money key, but not if you spam it.[/spoiler]
+- [spoiler]Lick an object, and then create an explosive... Have fun :p[/spoiler]
+
+[b]KNOWN BUGS[/b]
+- Fake money can't be used in the City Bay shop (can't fix).
+- Explosive objects sometimes have an incorrect scale and/or color.
+
+[b]DEV NOTES[/b]
+[quote=About this mod]One more mod that is the result of many suggestions on the request thread :)
+Making the goat drop money was not really hard, just some reuse of the Gold Farmer cash. And for the "fake cash" item I simply created a copy of the one you can find everywhere in the City Bay map ^^
+The "feign death" ability was also already existing (used by the Rouge power), so I only added a way to trigger it manually.
+And finally the explosives (the most fun part :p) caused some problems, but I solved them patiently one by one. At the beginning, I was planning to add only a precise list of explosive objects and the ability to select one of them, but while testing I accidentally found a solution for the problem of objects copies (I tried to do that already in the Cloning Goat mod). So instead of adding a list of objects, I just made it possible to create an explosive that is the copy of any object you lick :D
+[/quote]
